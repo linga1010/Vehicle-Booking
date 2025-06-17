@@ -1,62 +1,67 @@
-🚗 Vehicle Rental System (Java)
-🚗 Welcome to the Vehicle Rental System — a robust, user-friendly Java application designed to streamline vehicle rental management. Whether you manage a small fleet or a large rental business, this system helps you efficiently handle bookings, customers, vehicles, and payments.
+## 🚗 Vehicle Rental System (Java)
 
-📌 Overview
-This Vehicle Rental System offers a comprehensive solution to automate the entire rental process. From adding and managing vehicles to processing rental bookings and generating reports, this application delivers a seamless experience for both admins and customers.
+Welcome to the Vehicle Rental System — a robust, user-friendly Java application designed to streamline vehicle rental management...
 
-🚀 Features
-User Management:
-Register, login, and manage customer profiles securely.
+---
 
-Vehicle Management:
-Add, update, and track vehicles with details such as model, type, availability, and pricing.
+### 📌 Overview
 
-Booking System:
-Create, update, and cancel rental bookings with date validation.
+This Vehicle Rental System offers a comprehensive solution...
 
-Payment Processing:
-Calculate rental costs with discounts, taxes, and generate invoices.
+---
 
-Admin Dashboard:
-View analytics and manage fleet and customers in one place.
+### 🚀 Features
 
-Data Persistence:
-All data stored efficiently with file/database support (adjust as per your project).
+- **User Management**: Register, login, and manage customer profiles securely.
+- **Vehicle Management**: Add, update, and track vehicles...
+- **Booking System**: Create, update, and cancel rental bookings...
+- **Payment Processing**: Calculate rental costs and generate invoices.
+- **Admin Dashboard**: View analytics and manage fleet.
+- **Exception Handling**: Robust error management.
+- **User-Friendly Interface**: Console-based UI for easy navigation.
 
-Exception Handling:
-Robust error management ensures smooth operations.
+---
 
-User-Friendly Interface:
-Intuitive console-based UI (or specify if GUI) for easy navigation.
+### 🛠️ Technologies Used
 
-🛠️ Technologies Used
-Java (Core Java, Collections Framework, Exception Handling)
-(Add database if used, e.g., MySQL / SQLite / File I/O)
-Build tools: Maven / Gradle / Ant (if applicable)
-Unit Testing: JUnit or other (if applicable)
-💻 Getting Started
-Prerequisites
-Java Development Kit (JDK) 8 or higher installed.
-(Optional) IDE such as IntelliJ IDEA, Eclipse, or NetBeans.
-Installation & Running
+- Java (Core Java, Collections Framework, Exception Handling)
+- [Database used – e.g., MySQL or File I/O]
+- [Build tools if used – Maven / Gradle]
+- [Testing tools – JUnit]
+
+---
+
+### 💻 Getting Started
+
+#### Prerequisites
+
+- Java JDK 8+
+- IDE like IntelliJ or Eclipse
+
+#### Installation
+
+```bash
 git clone https://github.com/linga1010/Vehicle-Booking.git
 cd Vehicle-Booking
 javac -d bin src/*.java
 java -cp bin Main
-📂 Project Structure
+
 
 Vehicle-Booking/
-│
-├── src/                # Source code files
-├── bin/                # Compiled class files
-├── README.md           # Project documentation
-├── LICENSE             # License file (if any)
-└── docs/               # Additional documentation (optional)
+├── src/                
+├── bin/                
+├── README.md           
+├── LICENSE             
+└── docs/               
+
+
 🤝 Contribution
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 📄 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+Licensed under the MIT License — see the LICENSE file for details.
 
 🙏 Acknowledgements
 Thanks to everyone who inspired and helped build this project!
+
+
