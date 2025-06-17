@@ -39,14 +39,13 @@ Prerequisites
 Java Development Kit (JDK) 8 or higher installed.
 (Optional) IDE such as IntelliJ IDEA, Eclipse, or NetBeans.
 Installation & Running
-git clone https://github.com/tharshihecker/vehicle_rental_system_java.git
-cd vehicle_rental_system_java
+git clone https://github.com/linga1010/Vehicle-Booking.git
+cd Vehicle-Booking
 javac -d bin src/*.java
 java -cp bin Main
 📂 Project Structure
-python
-Copy
-vehicle_rental_system_java/
+
+Vehicle-Booking/
 │
 ├── src/                # Source code files
 ├── bin/                # Compiled class files
